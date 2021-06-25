@@ -23,13 +23,11 @@ $ npm run start:prod
 
 ## Test
 
-```bash
-# unit tests
-$ npm run test
+POST ROUTE: {
+  url: "ANY WEBSITE"
+}
 
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
+GET ROUTE: {
+  url: "ANY WEBSITE"
+}
 ```
