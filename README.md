@@ -1,7 +1,5 @@
 ## Description
 
-Backend Engineer Assessment
-
 ## Installation
 
 ```bash
